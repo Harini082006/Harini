@@ -1,2 +1,2 @@
-# Harini
+# Harini M
 AI Project
